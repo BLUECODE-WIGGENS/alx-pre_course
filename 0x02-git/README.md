@@ -1,2 +1,3 @@
-this is a directory inside alx-pre_course
-contribute to this repository
+this is my firs repository about alx-pre_course
+add your code here
+open for contribution
